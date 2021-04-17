@@ -1,1 +1,1 @@
-# Code-and-Exercises-from-Hands-on-ML-
+This is the repository of all my codes that I learn / implement / play around with, that have been introduced by the book "**Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems** " by **Aurélien Géron**
