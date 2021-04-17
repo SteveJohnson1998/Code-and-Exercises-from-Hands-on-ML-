@@ -1,4 +1,4 @@
-#This is a project that explores the results when using Linear Regression, Decision Trees, 
+##This is a project that explores the results when using Linear Regression, Decision Trees, 
 #Random Forest on the California Housing Data available at https://www.kaggle.com/walacedatasci/hands-on-machine-learning-housing-dataset
 
 %matplotlib inline
